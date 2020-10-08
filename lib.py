@@ -1,2 +1,2 @@
-def print_lib():
-    print("hello world")
+def print_lib(name="Anonymous"):
+    print("hello world %s"%name)

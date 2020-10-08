@@ -1,5 +1,6 @@
+import lib
 
 if __name__ == "__main__":
-    pass
+    lib.print_lib()
 
     
